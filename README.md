@@ -1,3 +1,13 @@
+Note
+-------------------
+ ========= Do not delete this branch. =========
+## Purpose:
+ This branch is specifically referenced by the VBC iOS application and is independent of the master branch.
+## Feature:
+- Supports SPM for a particular release. Release V3.8.2
+
+
+
 Web Image
 =========
 [![Build Status](http://img.shields.io/travis/rs/SDWebImage/master.svg?style=flat)](https://travis-ci.org/rs/SDWebImage)
@@ -332,3 +342,5 @@ Future Enhancements
 ## Licenses
 
 All source code is licensed under the [MIT License](https://raw.github.com/rs/SDWebImage/master/LICENSE).
+
+
